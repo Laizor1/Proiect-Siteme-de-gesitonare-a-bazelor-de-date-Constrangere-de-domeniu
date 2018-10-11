@@ -1,0 +1,13 @@
+C:\Users\Cristian\Desktop\FaneSGBD\SGBDProiect\SGBDProiect\bin\Debug\SGBDProiect.exe.config
+C:\Users\Cristian\Desktop\FaneSGBD\SGBDProiect\SGBDProiect\bin\Debug\SGBDProiect.exe
+C:\Users\Cristian\Desktop\FaneSGBD\SGBDProiect\SGBDProiect\bin\Debug\SGBDProiect.pdb
+C:\Users\Cristian\Desktop\FaneSGBD\SGBDProiect\SGBDProiect\obj\Debug\SGBDProiect.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\FaneSGBD\SGBDProiect\SGBDProiect\obj\Debug\SGBDProiect.Form1.resources
+C:\Users\Cristian\Desktop\FaneSGBD\SGBDProiect\SGBDProiect\obj\Debug\SGBDProiect.Form2.resources
+C:\Users\Cristian\Desktop\FaneSGBD\SGBDProiect\SGBDProiect\obj\Debug\SGBDProiect.Properties.Resources.resources
+C:\Users\Cristian\Desktop\FaneSGBD\SGBDProiect\SGBDProiect\obj\Debug\SGBDProiect.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\FaneSGBD\SGBDProiect\SGBDProiect\obj\Debug\SGBDProiect.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\FaneSGBD\SGBDProiect\SGBDProiect\obj\Debug\SGBDProiect.exe
+C:\Users\Cristian\Desktop\FaneSGBD\SGBDProiect\SGBDProiect\obj\Debug\SGBDProiect.pdb
+C:\Users\Cristian\Desktop\FaneSGBD\SGBDProiect\SGBDProiect\bin\Debug\MySql.Data.dll
+C:\Users\Cristian\Desktop\FaneSGBD\SGBDProiect\SGBDProiect\bin\Debug\MySql.Data.xml
